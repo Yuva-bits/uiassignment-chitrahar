@@ -1,0 +1,77 @@
+body {
+  font-family: Georgia, serif;
+  font-family: serif;
+}
+
+#title {
+  font-size: 1.5em;
+  color: white;
+  font-family: Georgia, serif;
+  font-family: "Gill Sans", sans-serif;
+}
+
+#h1 {
+  font-size: 1.2em;
+  color: white;
+  padding-left: 80px;
+  padding-right: 20px;
+}
+
+i {
+  padding: 10px;
+  padding-right: 20px;
+}
+
+/* navigation bar */
+header {
+  margin-top: 10px;
+  padding: 0 0 2rem;
+  background-color: black;
+  color: ;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 20px;
+  color: white;
+}
+
+#nav-link {
+  font-size: 1.2rem;
+  font-family: Georgia, serif;
+  font-family: serif;
+  color: white;
+}
+
+#hone, #pnew {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.8em;
+  color: white;
+  padding: 10px;
+}
+
+#reg {
+  background-color: #000839;
+}
+
+#hone {
+  padding-top: 60px;
+}
+
+#pnew {
+  padding-bottom: 50px;
+}
+
+label {
+  color: white;
+}
+
+#form1 {
+  border: 2px solid black;
+  padding: 40px;
+}
